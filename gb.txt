@@ -1,6 +1,4 @@
 *** زراعة ***
-تكرير اوووو
-هههههوووهوووو
  master	The Effects of Curing Smoking And Storage Condition On The Physical Chemical And Palatability Characteeristics Of Beef Tongue	1
 master	Quality Of Tomato leather (Salsadeen) Usig Different Food  Auditives	2
 ماجستير	تأثير إقتصاديات قرار سلطة وادي الأردن بإستئجار الوحدات الزراعية من المزارعين في منطقة وادي الأردن	3
@@ -10077,4 +10075,5 @@ PHD	دور التحكيم الإلكتروني في فض منازعات التج
 
 
     
+
 
